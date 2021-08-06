@@ -1,0 +1,11 @@
+Projeto "Trading with no hands":
+
+-Selecionar os ativos a utilizar(WIN, WDO, IBOV, BB, ITAU, VALE)
+-Baixar os dados dos ativos selecionados;
+-Colocar esses dados no CSV RESPECTIVO;
+-Concatenar os dados dos diferentes ativos nas referidas datas e horas em um único CSV;
+-Separar a coluna de fechamento com nome do ativo para o uso, ficando apenas as colunas DATA E HORA/CLOSE_WIN/CLOSE/WDO;
+-
+
+
+-Verificar nos 3 tempos gráficos se indicam a mesma prévia de direção do preço do índice;
