@@ -1,6 +1,6 @@
 Projeto "Trading with no hands":
 
--Selecionar os ativos a utilizar(WIN, WDO, IBOV, BB, ITAU, VALE)
+-Selecionar os ativos a utilizar(WIN, WDO, VALE3, ITUB4, PETR4, B3SA3, BBDC4, PETR3, ABEV3, JBSS3)
 -Baixar os dados dos ativos selecionados;
 -Colocar esses dados no CSV RESPECTIVO;
 -Concatenar os dados dos diferentes ativos nas referidas datas e horas em um único CSV;
